@@ -36,6 +36,11 @@ While primarily a design project, the process inherently focused on aspects crit
 *   **Accessibility Considerations:** Designing for a wide range of users, including responsive layouts and legible typography.
 *   **Data Integrity (Conceptual):** Structuring information flow to ensure accurate booking details are captured and presented.
 
+## 🔗 View the Prototype
+
+You can explore the interactive prototype directly on Figma:
+[**Hotel Booking Lo-fi Prototype**](https://www.figma.com/proto/42LykKtyrPVhxDGCFJIJDI/Lo-fi-prototype?node-id=0-1&t=jwUgNAknJi4ZxZje-1)
+
 ## 📈 Outcomes & Learning
 
 *   Successfully designed a comprehensive, interactive lo-fi prototype in Figma.
@@ -43,16 +48,5 @@ While primarily a design project, the process inherently focused on aspects crit
 *   Iterated design based on user feedback, demonstrating an understanding of user-centered design principles.
 *   Developed skills in structured reporting, data analysis (from UXtweak results), and presenting design rationale.
 
-## 🖼️ Prototype Visuals
-
-*(When you create your repository, you can add screenshots or a link to your Figma prototype here.)*
-
 ---
-
-## 🤝 How to View / Contribute
-
-This repository contains the documentation and potentially exported assets (e.g., PDF of frames) from the design project. The interactive prototype itself was built in Figma.
-
-*(You might add a link to your Figma prototype here if it's publicly accessible.)*
-
----
+[Back to My GitHub Profile](https://github.com/Godfann-Gyening)
